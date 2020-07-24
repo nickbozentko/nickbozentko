@@ -1,6 +1,6 @@
 ## Hi, I'm Nick.
 
-![Nick](./assets/nickLogo.svg)
+![Nick](https://github.com/nickbozentko/nickbozentko/blob/master/assets/nickLogo.svg)
 
 🎓 I am currently pursuing a Bachelor of Science in Computer Science with a Minor in Mathematics at Iona College. I will be graduating in May of 2021. 
 
