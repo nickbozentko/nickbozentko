@@ -4,12 +4,6 @@
   <img height="300px" width="300px" src="https://nicholasbozentko.com/nickLogo.svg" />
 </p>
 
-🎓 I am currently pursuing a Bachelor of Science in Computer Science with a Minor in Mathematics at Iona College. I will be graduating in May of 2021. 
-
-👨🏼‍💻 In addition to my studies, I have been working as a Software Developer Intern at IBM.
-
-🔬 Recently, I have also been assisting in academic research involving winning strategies in the combinatorial game, The Game of Cycles.
-
 ---
 
 🌐 Check Out My Website: [nicholasbozentko.com](https://nicholasbozentko.com)
