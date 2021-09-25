@@ -1,4 +1,4 @@
-## Hi, I'm Nick.
+# Hi, I'm Nick.
 
 <p align="center">
   <img height="300px" width="300px" src="https://nicholasbozentko.com/nickLogo.svg" />
@@ -6,11 +6,11 @@
 
 ---
 
-🌐 Check Out My Website: [nicholasbozentko.com](https://nicholasbozentko.com)
+### 🌐 Check Out My Website: [nicholasbozentko.com](https://nicholasbozentko.com)
 
-💼 Find Me On LinkedIn: [linkedin.com/in/nicholas-bozentko](https://www.linkedin.com/in/nicholas-bozentko/)
+### 💼 Find Me On LinkedIn: [linkedin.com/in/nicholas-bozentko](https://www.linkedin.com/in/nicholas-bozentko/)
 
-📫 Send Me an Email: [nicholas.bozentko@gmail.com](mailto:nicholas.bozentko@gmail.com)
+### 📫 Send Me an Email: [nicholas.bozentko@gmail.com](mailto:nicholas.bozentko@gmail.com)
 
 
 
