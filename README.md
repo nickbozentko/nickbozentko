@@ -1,7 +1,7 @@
 # Hi, I'm Nick.
 
 <p align="center">
-  <img height="300px" width="300px" src="https://nicholasbozentko.com/nickLogo.svg" />
+  <img height="300px" width="300px" src="https://nicholasbozentko.com/logo.svg" />
 </p>
 
 ---
