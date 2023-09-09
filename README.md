@@ -6,13 +6,14 @@
 
 ---
 
-### 🌐 Check Out My Website: [nicholasbozentko.com](https://nicholasbozentko.com)
+### 🌐 
+Check Out My Website: [https://nickboz.dev](https://nickboz.dev)
 
-### 💼 Find Me On LinkedIn: [linkedin.com/in/nicholas-bozentko](https://www.linkedin.com/in/nicholas-bozentko/)
+### 💼 
+Find Me On LinkedIn: [https://linkedin.com/in/nicholas-bozentko](https://www.linkedin.com/in/nicholas-bozentko/)
 
-### 📫 Send Me an Email: [nicholas.bozentko@gmail.com](mailto:nicholas.bozentko@gmail.com)
-
-
+### 𝕏 
+Follow Me On 𝕏 / Twitter: [https://twitter.com/nickbozentko](https://twitter.com/nickbozentko)
 
 <!--
 **nickbozentko/nickbozentko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
