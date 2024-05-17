@@ -12,9 +12,6 @@ Check Out My Website: [https://nickboz.dev](https://nickboz.dev)
 ### 💼 
 Find Me On LinkedIn: [https://linkedin.com/in/nicholas-bozentko](https://www.linkedin.com/in/nicholas-bozentko/)
 
-### 𝕏 
-Follow Me On 𝕏 / Twitter: [https://twitter.com/nickbozdev](https://twitter.com/nickbozdev)
-
 <!--
 **nickbozentko/nickbozentko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
